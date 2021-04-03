@@ -15,5 +15,5 @@ python -m pip install -r requirements.txt
 ### Как запустить
 
 ```
-python3 lesson2.py
+python lesson2.py
 ```
